@@ -1,0 +1,6 @@
+.git
+Dockerfile
+bin
+node_modules
+.dockerignore
+start_container.sh
